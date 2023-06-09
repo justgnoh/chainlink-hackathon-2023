@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "description": "Hi everyone. I am a freelancer with 5 years of experience from Singapore",
+    "skills": "React, Python, Java",
+    "roles": "Front End Developer, Back End Developer, UI/UX Designer",
+    "previousCompletedProjects": ["project-contract-address1","project-contract-address2"],
+    "average-revenue-rate": "3.5%",
+    "additional links": {
+        "linkedin": "",
+        "github": "",
+        "behance": ""
+    }
+}
